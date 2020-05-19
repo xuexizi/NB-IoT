@@ -1,0 +1,17 @@
+.el-menu{
+  background: -moz-linear-gradient(top, #FFFFFF 0%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(100%,#ffffff));
+  background: -webkit-linear-gradient(top, #FFFFFF 0%,#ffffff 100%);
+  background: -o-linear-gradient(top, #FFFFFF 0%,#ffffff 100%);
+  background: -ms-linear-gradient(top, #FFFFFF 0%,#ffffff 100%);
+  background: linear-gradient(to bottom, #FFFFFF 0%,#ffffff 100%);
+}
+.el-menu.el-menu--horizontal {
+  border-bottom: solid 0px #e6e6e6;
+}
+.router-link-exact-active {
+  color: #409EFF;
+}
+.el-main{
+  padding-top: 10px;
+}
